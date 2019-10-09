@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    'sparse_solver',
+    'linear_solver',
     'simscan',
 ]
