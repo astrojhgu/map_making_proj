@@ -2,4 +2,5 @@
 members = [
     'linear_solver',
     'simscan',
+    'map_solver',
 ]
