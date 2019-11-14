@@ -4,4 +4,5 @@ members = [
     'simscan',
     'simobs',
     'map_solver',
+    'fftn',
 ]
