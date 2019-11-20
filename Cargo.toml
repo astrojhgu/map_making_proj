@@ -3,5 +3,6 @@ members = [
     'linear_solver',
     'simobs',
     'map_solver',
+    'pyms',
     'fftn',
 ]
