@@ -1,0 +1,15 @@
+[submodule "pyms"]
+	path = pyms
+	url = https://github.com/astrojhgu/pyms
+[submodule "linear_solver"]
+	path = linear_solver
+	url = https://github.com/astrojhgu/linear_solver
+[submodule "simobs"]
+	path = simobs
+	url = https://github.com/astrojhgu/simobs
+[submodule "map_solver"]
+	path = map_solver
+	url = https://github.com/astrojhgu/map_solver
+[submodule "fftn"]
+	path = fftn
+	url = https://github.com/astrojhgu/fftn
